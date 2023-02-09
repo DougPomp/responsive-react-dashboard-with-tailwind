@@ -18,7 +18,7 @@ const tau = 2 * pi;
 const employeeData = [
 {
   id: 1,
-  name: 'Esthers Howard',
+  name: 'Esther Howard',
   position: "Sale's manager USA",
   transactions: 3490,
   rise: true,
